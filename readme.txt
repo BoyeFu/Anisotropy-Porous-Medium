@@ -1,0 +1,1 @@
+the scatteringproblem is the main function.the other code are all self-defined function in the main code. 
